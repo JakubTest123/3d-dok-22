@@ -1,1 +1,1 @@
-# 3d-dok-22
+# Prvý repozitár pred predmet Technická dokumentácia v IT
